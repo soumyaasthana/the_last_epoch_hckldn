@@ -1,0 +1,5 @@
+{
+  "name": "London Planning AI Committee",
+  "description": "A multi-agent RAG simulation for urban planning debates, featuring Local Resident, Developer, and Planning Officer personas.",
+  "requestFramePermissions": []
+}
